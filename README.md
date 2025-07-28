@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/JoaoConrado/JoaoConrado" width="150px;"
+  <img src="https://avatars.githubusercontent.com/u/JoaoConrado?v=4" width="150px;" alt="Sua Foto de Perfil do GitHub"/>
   <h3>Olá, mundo! 👋</h3>
   <p>Sou Engenheiro de Computação com uma paixão por desvendar e construir soluções tecnológicas.</p>
 </div>
