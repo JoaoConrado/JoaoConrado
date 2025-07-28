@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/JoaoConrado?v=4" width="150px;" alt="Sua Foto de Perfil do GitHub"/>
+  <img src="https://avatars.githubusercontent.com/u/JoaoConrado?v=4" width="150px;"
   <h3>Olá, mundo! 👋</h3>
   <p>Sou Engenheiro de Computação com uma paixão por desvendar e construir soluções tecnológicas.</p>
 </div>
@@ -39,7 +39,6 @@ Graças à minha formação, possuo entendimento em:
 * Sistemas de Controle
 * Processamento de Sinais
 
----
 ---
 
 </div>
